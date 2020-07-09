@@ -3,5 +3,5 @@ package beef
 import "fmt"
 
 func Chicken() {
-	fmt.Println("reached")
+	fmt.Println("reached, updated")
 }
